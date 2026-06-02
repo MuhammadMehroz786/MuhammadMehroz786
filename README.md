@@ -81,12 +81,10 @@
 ## 🤝 Connect
 
 <p align="center">
-  <!-- TODO: replace YOUR-HANDLE with your real LinkedIn URL -->
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE">
+  <a href="https://www.linkedin.com/in/mehrozmuneer/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin" />
   </a>
-  <!-- TODO: replace YOUR-EMAIL@example.com with your real email -->
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:mehroz.muneer@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="email" />
   </a>
 </p>
