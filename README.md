@@ -1,92 +1,52 @@
-<h1 align="center">Hi 👋, I'm Mehroz</h1>
+<h1 align="center">Mehroz Muneer</h1>
 
 <p align="center">
-  <a href="https://github.com/MuhammadMehroz786">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8BE9FD&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Full-stack+product+builder;I+ship+LLM-powered+apps+end-to-end;Python+%E2%80%A2+TypeScript+%E2%80%A2+RAG+%E2%80%A2+Slack+%2F+Claude+API" alt="Typing SVG" />
-  </a>
+  <b>AI Engineer</b> · AI agents, RAG systems and voice AI, shipped to production
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadMehroz786&label=Profile%20views&color=8be9fd&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/mehrozmuneer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.upwork.com/freelancers/mehrozmuneer"><img src="https://img.shields.io/badge/Upwork-Top%20Rated-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  <a href="mailto:mehroz.muneer@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Karachi,%20Pakistan-555555?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
-###
+---
 
-<p align="center">
-🤖 I build <b>AI / LLM-powered products</b> and ship them end-to-end — from retrieval pipelines to live Slack integrations.<br/>
-🧠 Comfortable across the stack: <b>Python</b> for ML & data, <b>TypeScript</b> for the apps users actually touch.<br/>
-⚡ Currently building human-in-the-loop AI tooling (RAG, pgvector, the Claude & OpenAI APIs).
-</p>
+I lead AI engineering for a software team. We build AI products that do real work for businesses: agents that make decisions inside guardrails, retrieval systems that answer with sources, voice agents that take calls, and the automation that connects them to Shopify, WhatsApp, Slack and CRMs.
 
-###
+Most of our client work is private. The repositories below are the public part.
 
-## 🚀 What I build
+## Featured work
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[pdm-slack-ai](https://github.com/MuhammadMehroz786/pdm-slack-ai)** | Human-in-the-loop AI that drafts client replies inside Slack for a marketing agency — RAG over a knowledge base, every reply approved by a human before it's sent. | `TypeScript` · `Claude/OpenAI` · `pgvector` · `Slack Bolt` |
-| **[Shopify Title & Description Optimizer](https://github.com/MuhammadMehroz786/Shopify-Title-and-Description-Optimizer-)** | Auto-optimizes product copy for Shopify listings. | `Python` |
-| **[Amazon Viral Products → Shopify](https://github.com/MuhammadMehroz786/Amazon-Viral-Products---Shopify)** | Surfaces trending Amazon products and pipes them into a Shopify workflow. | `Python` |
-| **[Pixel-Lang](https://github.com/MuhammadMehroz786/Pixel-Lang)** | An experimental programming language. | `Python` |
+| [**Stocks Trading Agent**](https://github.com/MuhammadMehroz786/Stocks-Trading-Agent) | Autonomous LLM trading agent. The model decides, and a code level risk layer decides what it is allowed to do. | TypeScript · GPT-5 · Alpaca · Docker |
+| [**PocketCoder**](https://github.com/MuhammadMehroz786/Pocket-Coder) | Turns Telegram into a coding assistant that builds full projects on your Mac from your phone. | Python · Claude Code · Telegram |
+| [**TijarFlow**](https://github.com/MuhammadMehroz786/TJ-NEW) | One dashboard to sync and push products across multiple Shopify and Salla stores. | TypeScript · Node · React |
+| [**SEO Bot**](https://github.com/MuhammadMehroz786/SEO) | Multi store Shopify SEO manager: keyword tracking, technical audits, AI written meta tags. | Django · React · Claude API |
+| [**Amazon to Shopify**](https://github.com/MuhammadMehroz786/Amazon-Viral-Products---Shopify) | Daily pipeline that imports trending Amazon products with AI generated copy and images. | Python · Flask · OpenAI |
+| [**AI Calling Agent**](https://github.com/MuhammadMehroz786/AI-Calling-Agent) | Outbound calls from Twilio numbers, bridged over SIP to AI voice agents. | Python · Twilio · Retell |
+| [**Inner Joy WhatsApp**](https://github.com/MuhammadMehroz786/Innerjoy) | WhatsApp automation for a coaching studio: booking flows, timed reminders, follow ups. | Python · WhatsApp API · Sheets |
+| [**Interactive Avatar**](https://github.com/MuhammadMehroz786/Heygen-Interactive-Avatar) | Real time streaming video avatar with voice input and a knowledge base. | Next.js · HeyGen |
 
-> 64 public repos and counting — AI tooling, e-commerce automation, and full-stack apps.
+## Open source
 
-###
+Merged contributions to [**anthropics/buffa**](https://github.com/anthropics/buffa), Anthropic's Rust protobuf implementation:
 
-## 🛠️ Tech I work with
+- [#689](https://github.com/anthropics/buffa/pull/689) · descriptor: give singular extensions presence and put the required check ahead of the message arm
+- [#690](https://github.com/anthropics/buffa/pull/690) · codegen: reject two members of one oneof whose Rust variant names collide
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,ts,js,react,nodejs,postgres,docker,git,html,css&theme=dark" alt="tech stack" />
-</div>
+## What we work with
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" alt="pandas" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42" alt="numpy" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/412991" height="42" alt="openai" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/railway/8be9fd" height="42" alt="railway" />
+**AI:** Claude and OpenAI APIs, RAG, pgvector, agents and tool use, evals, Vapi, Retell, Twilio, HeyGen<br/>
+**Product:** TypeScript, Python, Next.js, React, Node, Django, Flask, Supabase, Postgres<br/>
+**Shipping:** Docker, Vercel, Railway, Linux VPS, GitHub Actions
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,django,postgres,supabase,docker,vercel,linux,git&perline=12" alt="Tech stack" />
 </p>
 
-###
+---
 
-## 📊 GitHub stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadMehroz786&show_icons=true&count_private=true&theme=dracula&hide_border=true&border_radius=10" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMehroz786&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=8" alt="top langs" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhammadMehroz786&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10" height="165" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=MuhammadMehroz786&theme=dracula&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophies" />
-</div>
-
-###
-
-## 🐍 Contribution graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadMehroz786/MuhammadMehroz786/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadMehroz786/MuhammadMehroz786/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuhammadMehroz786/MuhammadMehroz786/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-## 🤝 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mehrozmuneer/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin" />
-  </a>
-  <a href="mailto:mehroz.muneer@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="email" />
-  </a>
-</p>
-
-<p align="center"><i>Open to AI / ML and full-stack opportunities.</i></p>
+<p align="center"><i>Open to AI engineering projects. The fastest way to reach me is LinkedIn or email.</i></p>
